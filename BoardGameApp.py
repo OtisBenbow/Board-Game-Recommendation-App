@@ -168,7 +168,6 @@ def age_rating():
                 if len(st.session_state.filtered_df) <= x:
                     recommend()
                 else:
-                    st.session_state['history']
                     complexity()
                     
         elif game_age == 'No':
