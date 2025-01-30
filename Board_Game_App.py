@@ -40,7 +40,7 @@ st.subheader("Find the perfect board game based on your preferences!")
 
 st.markdown("##### How It Works:")
 st.markdown("- Enter details about the type of board game you're looking for.")
-st.markdown("- Receive a list of the **highest rated games** tailored to your wants and needs.")
+st.markdown("- Receive a list of the **highest rated games**, from board game geek (BGG), tailored to your wants and needs.")
 st.markdown("- If somehow no matching games are found, you simply **refresh the page** and try again. (Recommendations and Advice Provided)")
 
 st.markdown("---")
